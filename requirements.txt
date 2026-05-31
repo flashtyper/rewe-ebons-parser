@@ -1,0 +1,5 @@
+pypdf
+pyyaml
+argparse
+git+https://github.com/flashtyper/py3-common.git
+
