@@ -1,5 +1,5 @@
 # rewe-ebons-parser
-This script parses the ewe ebons and generates some statistics
+This script parses the rewe ebons and generates some statistics
 
 # Usage
 First, download all eBons from your REWE account:
@@ -14,6 +14,7 @@ After doing this, you can use the script as following:
 python3 script.py --path bons --filter '05.2026'
 ```
 `--path` is the path to the ebons pdfs
+
 `--filter` is optional. You can filter out specific files containing the filter string.
 
 # Output / Example
